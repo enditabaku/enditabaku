@@ -1,4 +1,4 @@
-# Hi there, I'm Endi <img width="40px" src="https://ianec.tk/images/main_photo.png" />
+# Hi there, I'm Endi <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/2048px-Circle-icons-computer.svg.png" />
 I’m currently working as a front-end developer
 
 ---
