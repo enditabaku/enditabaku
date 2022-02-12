@@ -1,27 +1,4 @@
 # Hi there, I'm Endi <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/2048px-Circle-icons-computer.svg.png" />
-I am a front-end developer with proven experience at Pragmatic Software in helping the company to create and maintain a better code base for reusability. 
-
-Most of the projects I've got involved in were projects from Pragmatic, where the technologies, frameworks, and programming languages I worked on were: C#, ASP.NET MVC, Entity Framework, NodeJS, SQL Server, Docker, Git, JavaScript, ReactJS, React Native, jQuery, AJAX, HTML, CSS, SASS, Bootstrap, etc. 
-
-I also got involved in the quality assurance process for 3 mobile apps. Besides company projects, I have also worked on personal projects to develop more skills.
-
-My personal projects are added to GitHub and include mobile applications, web applications, web applications using Umbraco CMS with dynamic content, and also UI-UX designs for applications using Figma.
-
-I completed my bachelor studies in Business Informatics, which helped me involve more in economics, statistics, econometrics, applied mathematics, and also working with SPSS software.
- 
-	Counting more than 15 certifications in the following fields: 
- 
-•	technologies and programming languages: HTML, CSS, JavaScript, Responsive Design
-
-•	Cyber Security
-
-•	Leadership
-
-•	The field of Intellectual Property (from General Directorate of Patents and Trademarks)
-
-•	Art exhibitions
-
-
 
 ---
 
